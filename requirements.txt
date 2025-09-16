@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+metaapi-cloud-sdk
+python-dotenv
